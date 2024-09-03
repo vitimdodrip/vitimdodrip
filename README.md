@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 💙
 
 Meu nome é Victor Galvagni
 
@@ -6,7 +6,7 @@ Meu nome é Victor Galvagni
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📫
 
 victor.galvagni@escola.pr.gov.br
 
